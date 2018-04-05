@@ -1,3 +1,3 @@
 # Yuru-Camp
 
-![poster](https://github.com/Nekomoekissaten/Yuru-Camp/blob/master/poster.jpg)
+![poster](https://github.com/Nekomoekissaten-SUB/Yuru-Camp/blob/master/poster.jpg)
